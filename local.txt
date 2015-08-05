@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 === RANDOM LIPSUM GENERATOR ===
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 
 ==== Hot News ===
 As Debate Goes On Without Jindal, Super PAC’s Ad Will Support Him in Iowa
@@ -17,9 +15,3 @@ The ad cuts to Mr. Jindal saying, “If you elect somebody to D.C. that wants to
 Iowans Mr. Jindal has met at town-hall-style meetings are then featured in the ad. The super PAC, which is legally barred from coordinating with the campaign, is trying to send a message that the debate is merely one night of cable broadcast.
 
 Mr. Jindal is polling low, but has been drawing large crowds.
-=======
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->>>>>>> 0983547a579395185aabb849d31fddc358d640ef
